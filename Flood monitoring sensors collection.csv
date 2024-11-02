@@ -1,0 +1,37 @@
+﻿Flood Type,Characteristics,Monitoring indicators,Sensors
+Flash flood,1. Small temporal and spatial scales,"Rainfall, air temperature, air humidity, wind speed, barometric pressure, cloud-to-ground lightning, soil moisture, CO2 content, groundwater level, water table, flow rate, peak flow rate, streamflow, catchment area, surface slope, topographic variation","Rain sensors, temperature sensors, humidity sensors, wind speed sensors, altimeter sensors, lightning detection sensors, soil moisture sensors, gas sensors, water level sensors, pressure sensors, cameras, flow sensors, flow rate sensors, optical satellites, radar satellites, drones"
+,2. mainly caused by heavy rainfall,,
+,3. high flow velocities,,
+,4. Carry large amounts of sediment and have high downstream impacts,,
+River flood,1. Suddenly affected by rainfall,"Rainfall, wind speed, wind direction, air pressure, air humidity, soil moisture, solar radiation, channel depth, river level, flow, velocity, extent of inundation, topographic variation","Rainfall sensors, wind speed sensors, wind direction sensors, barometric pressure sensors, humidity sensors, soil moisture sensors, solar radiometers, acoustic sounders, soil erosion sensors, suspended particulate matter (SPM) sensors, water level sensors, flow sensors, flow velocity sensors, cameras, optical satellites, radar satellites, microwave satellites"
+,2. Duration ranges from a few hours to a few days,,
+,"3. Widespread, especially downstream",,
+Storm surge flooding,"1. Ocean storms, sudden and severe","Wind speed, wind direction, air pressure, rainfall, sea surface temperature, sea level height, sea level pressure, wave height, wave direction, currents, estuarine levels, coastal topography","Wind speed sensors, wind direction sensors, barometric pressure sensors, rainfall sensors, temperature sensors, tide level sensors, pressure sensors, wave sensors, coastal buoys, Doppler current velocity sensors, water level sensors, optical satellites, radar satellites, microwave satellites, drones"
+,2. Abnormal sea level rise,,
+,3. Highly destructive to coastal areas,,
+,4. Impact area may be inland,,
+Snowmelt floods,1. Seasonal,"Air temperature, ground temperature, air humidity, solar radiation, rainfall, evapotranspiration, soil moisture, snow depth, snow water equivalent, snow and ice albedo, groundwater level, river level, flow, velocity, water cover (WCE), snowmelt area, snowmelt rate","Temperature sensors, humidity sensors, solar radiometers, rainfall sensors, soil temperature sensors, snow depth sensors, snow water equivalent sensors, reflectance meters, water level sensors, flow sensors, flow velocity sensors, optical satellites, radar satellites"
+,2. Highly predictable,,
+,3. slow to develop into floods,,
+,4. Widespread impacts,,
+Glacial lake outburst floods,1. Complexity of the mechanisms of catastrophe,"Rainfall, air temperature, surface temperature, solar radiation, wind speed, wind direction, seismic motion, sound, glacier displacement, glacier thickness, glacier profile, glacier lake level, lake temperature, lake area, lake volume, lake depth, lake water quality, ice dam thickness, dam deformation, pore water pressure, outflow flow, peak flow","Rain sensors, temperature sensors, solar radiometers, wind speed sensors, wind direction sensors, seismometers, sound sensors, displacement sensors, ground penetrating radar, optical satellites, water level sensors, acoustic sounder, water quality monitors, radar satellites, inclinometers, crack gauges, pressure sensors, drones, flow sensors"
+,2. Sensitivity of glaciers to climate change,,
+,3. rapid water level rise or significant retreat of ice dams,,
+,4. Catastrophic damage downstream,,
+Landslide weir releases floodwaters,1. Rapid rise in water level,"Rainfall, soil moisture, seismic activity, lake extent, lake depth, water quality, water level, peak flow, flood flow, flood flow rate, soil displacement, geotechnical stability, weir stability","Rainfall sensors, soil moisture sensors, geophones, optical satellites, radar satellites, turbidity sensors, water level sensors, flow sensors, flow velocity sensors, displacement sensors, geo-radar, fissure meters"
+,2. Overflow is the most common cause,,
+,3. very rapid discharge,,
+,4. Large downstream impacts,,
+Mudslides,"1. caused by heavy rainfall, earthquakes or human activities","Rainfall, stream flow, air temperature, peak flow, groundwater level, surface water level, depth of flow, soil moisture, slope and topography, ground vibration, subsurface sound, average flow velocity, surface velocity, basement forces, fluid pore pressure, impact forces","Rain sensors, flow sensors, temperature sensors, water level sensors, flow height sensors, soil moisture sensors, optical satellites, radar satellites, displacement sensors, ground vibration sensors, geophones, infrasound sensors, Doppler flow rate sensors, video cameras, speed sensors, unmanned aerial vehicles, load cells, fluid pore pressure sensors, strain sensors"
+,2. high flow velocities,,
+,"3. large amounts of debris (soil, rock, etc.)",,
+urban flooding,1. Vulnerable to low-lying urban areas or areas with inadequate drainage systems,"Rainfall, barometric pressure, air temperature, humidity, depth of standing water, drainage system flow and level, groundwater level, soil moisture, extent of internal flooding","Rain Sensor, Barometric Pressure Sensor, Temperature Sensor, Humidity Sensor, Standing Water Sensor, Flow Sensor, Flow Rate Sensor, Water Level Sensor, Camera, Soil Moisture Sensor, Pressure Sensor, Optical Satellite, Infrared Satellite, Radar Satellite"
+,2. Rapid onset and short duration,,
+,3. Limited area of impact,,
+Tidal flood,1. Cyclical,"Sea level height, air pressure, wind direction, wind speed, wave height, wave period, rainfall, flow velocity, surface temperature, flood extent, flood depth, water vapour content","Tide Sensor, Barometric Pressure Sensor, Temperature Sensor, Wind Sensor, Wind Speed Sensor, Salinity Sensor, Ground Penetration Sensor, Rain Sensor, Flow Rate Sensor, High Frequency Ground Wave Radar, GPS Buoy Wave Sensor, Optical Satellite, Infrared Satellite, Radar Satellite, Microwave Satellite"
+,2. Highly predictable,,
+,3. Prone to occur in coastal and low-lying areas,,
+,4. More severe in tropical countries and regions,,
+Tsunamis,1. Triggered by submarine earthquakes or landslides,"Seismicity, water column pressure, sea level rise, wave height, wave period, sea surface temperature","Seismometers, cable submarine pressure sensors, submarine pressure recorders, surface buoys, tide sensors, wave sensors, radar satellites"
+,2. The propagation and destruction phases usually last a few hours,,
+,,,
